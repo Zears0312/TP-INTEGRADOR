@@ -1,0 +1,14 @@
+C:\Users\Zears\Documents\TP-INTEGRADOR\tpIntegrador\bin\Debug\net10.0\tpIntegrador.exe
+C:\Users\Zears\Documents\TP-INTEGRADOR\tpIntegrador\bin\Debug\net10.0\tpIntegrador.deps.json
+C:\Users\Zears\Documents\TP-INTEGRADOR\tpIntegrador\bin\Debug\net10.0\tpIntegrador.runtimeconfig.json
+C:\Users\Zears\Documents\TP-INTEGRADOR\tpIntegrador\bin\Debug\net10.0\tpIntegrador.dll
+C:\Users\Zears\Documents\TP-INTEGRADOR\tpIntegrador\bin\Debug\net10.0\tpIntegrador.pdb
+C:\Users\Zears\Documents\TP-INTEGRADOR\tpIntegrador\obj\Debug\net10.0\tpIntegrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zears\Documents\TP-INTEGRADOR\tpIntegrador\obj\Debug\net10.0\tpIntegrador.AssemblyInfoInputs.cache
+C:\Users\Zears\Documents\TP-INTEGRADOR\tpIntegrador\obj\Debug\net10.0\tpIntegrador.AssemblyInfo.cs
+C:\Users\Zears\Documents\TP-INTEGRADOR\tpIntegrador\obj\Debug\net10.0\tpIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\Zears\Documents\TP-INTEGRADOR\tpIntegrador\obj\Debug\net10.0\tpIntegrador.dll
+C:\Users\Zears\Documents\TP-INTEGRADOR\tpIntegrador\obj\Debug\net10.0\refint\tpIntegrador.dll
+C:\Users\Zears\Documents\TP-INTEGRADOR\tpIntegrador\obj\Debug\net10.0\tpIntegrador.pdb
+C:\Users\Zears\Documents\TP-INTEGRADOR\tpIntegrador\obj\Debug\net10.0\tpIntegrador.genruntimeconfig.cache
+C:\Users\Zears\Documents\TP-INTEGRADOR\tpIntegrador\obj\Debug\net10.0\ref\tpIntegrador.dll
